@@ -1,0 +1,42 @@
+.detalleContenedor {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+ 
+}
+
+.col {
+    max-width: 400px;
+    width: 80%;
+    margin: 15px;
+    height: auto;
+    height: 80%;
+    
+}
+
+.imagenPelicula {
+    border-radius: 15px;
+}
+
+.detallePelicula{
+    font-size: 1.2rem;
+}
+h2{
+    margin-bottom: 1rem;
+}
+p{
+    margin-top:0.5rem ;
+    color:#e1e2e1;
+    
+}
+p strong{
+    color:white;
+}
+
+
+
+.titulo{
+    border-bottom: 1px solid #dd0a14;
+    padding-bottom: 1rem;
+
+}

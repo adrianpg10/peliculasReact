@@ -1,0 +1,30 @@
+.contenido {
+    list-style: none;
+    font-size: 1rem;
+    text-align: center;
+}
+.contenido:hover{
+
+    opacity: 0.8;
+}
+
+.imagenpelicula {
+    border-radius: 10px;
+    background-color: azure;
+    width: 230px;
+    height: 345px;
+}
+
+.tituloImagen {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+@media (max-width:560px){
+    .imagenpelicula {
+        width: 90%;
+        height: auto;
+    }
+}
