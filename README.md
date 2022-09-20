@@ -1,6 +1,6 @@
 ## Descripción
 
-Aplicación peliculas hecho en react + API Moviedb
+Aplicación peliculas hecho en React + API Moviedb
 
 ## Autor ✒️
 **Adrián Pérez Gómez** - *Redes*
