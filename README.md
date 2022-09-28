@@ -12,6 +12,6 @@ Aplicación peliculas hecho en React + API Moviedb
 
 ## Verlo en directo en Netlify
 
-* https://peliculasrezadri.netlify.app/
+* https://chatrezadri.netlify.app/
 
 
